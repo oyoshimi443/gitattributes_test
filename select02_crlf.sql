@@ -1,4 +1,4 @@
 select
 count()
 from
-test_tb
+test_tb_lfchange
